@@ -1,6 +1,6 @@
 # 1stBasicServer
 ## 1.1 Instruction for running the app.
-python .\App.py
+python .\App.py\n
 The web service will run at port 5000 e.g. http://127.0.0.1:5000
 
 ## 1.2 Instruction for testing the app.
