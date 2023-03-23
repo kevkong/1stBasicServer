@@ -48,18 +48,22 @@ Request:
     "completed": string
 }
 ```
+```
 No response body required
-
+```
 ---
 Update API
 ```http
 PUT /todos/update/{id}/<column>
 ```
+```
 No request & response body required
-
+```
 ---
 Delete API
 ```http
 DELETE /todo/delete/{id}
 ```
+```
 No request & response body required
+```
