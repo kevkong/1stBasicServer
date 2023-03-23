@@ -17,10 +17,11 @@ Ran on VS Code:
 
 ### Delete item
 'curl -X DELETE http://localhost:5000/todos/1'
----
 
 1.3 Instruction for building the app
+---
 N/A
+
 
 1.4 interface documentation
 ---
