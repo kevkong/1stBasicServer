@@ -48,8 +48,7 @@ Request:
     "completed": string
 }
 ```
-Responses:
-"", 201
+No response body required
 ---
 Update API
 ```http
