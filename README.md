@@ -20,8 +20,7 @@ Ran on VS Code:
 
 1.3 Instruction for building the app
 ---
-N/A
-
+Git clone and run in cloned directory.
 
 1.4 interface documentation
 ---
