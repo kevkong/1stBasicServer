@@ -49,15 +49,17 @@ Request:
 }
 ```
 No response body required
+
 ---
 Update API
 ```http
 PUT /todos/update/{id}/<column>
 ```
-No request body required
+No request & response body required
+
 ---
 Delete API
 ```http
 DELETE /todo/delete/{id}
 ```
-No request body required
+No request & response body required
